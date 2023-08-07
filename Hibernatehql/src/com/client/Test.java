@@ -18,7 +18,7 @@ public class Test {
 		String sql ="insert into student values(?,?)";
 		SQLQuery<Student> query=session.createSQLQuery(sql);
 		  
-		
+		//cooment
 		
 	}
 
